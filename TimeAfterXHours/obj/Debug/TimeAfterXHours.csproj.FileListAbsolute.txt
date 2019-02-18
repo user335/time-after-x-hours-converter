@@ -1,0 +1,7 @@
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\time-after-x-hours-calculator\TimeAfterXHours\TimeAfterXHours\bin\Debug\TimeAfterXHours.exe.config
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\time-after-x-hours-calculator\TimeAfterXHours\TimeAfterXHours\bin\Debug\TimeAfterXHours.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\time-after-x-hours-calculator\TimeAfterXHours\TimeAfterXHours\bin\Debug\TimeAfterXHours.pdb
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\time-after-x-hours-calculator\TimeAfterXHours\TimeAfterXHours\obj\Debug\TimeAfterXHours.csprojAssemblyReference.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\time-after-x-hours-calculator\TimeAfterXHours\TimeAfterXHours\obj\Debug\TimeAfterXHours.csproj.CoreCompileInputs.cache
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\time-after-x-hours-calculator\TimeAfterXHours\TimeAfterXHours\obj\Debug\TimeAfterXHours.exe
+C:\Users\Rob Clark\Desktop\tech academy coding bootcamp\csharp\time-after-x-hours-calculator\TimeAfterXHours\TimeAfterXHours\obj\Debug\TimeAfterXHours.pdb
